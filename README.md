@@ -2,6 +2,18 @@
 A collection of cool deep learning material.
 
 ## implementations
+#### Audio
+- [Silero VAD](https://github.com/snakers4/silero-vad): Voice Activity Detection and Language Identification (closed source implementation)
+- []
+
+#### Image
+
+#### Video
+
+## libraries
+- cppflow: C++ wrapper for tensorflow
+- nlp-aug: augementation for nlp
+- kapre: preprocessing as a tf layer
 
 ## datasets
 For full lists of datasets please checkout the following links
