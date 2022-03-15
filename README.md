@@ -1,4 +1,39 @@
-# awesome-dl-applications
+# awesome deep learning
+A collection of cool deep learning material.
+
+## implementations
+
+## datasets
+For full lists of datasets please checkout the following links
+- https://github.com/awesomedata/awesome-public-datasets
+- https://www.tensorflow.org/datasets/catalog/overview#all_datasets
+
+natural ecosystems:
+- https://lila.science/datasets
+- https://lila.science/otherdatasets
+
+### Image
+#### Nature
+- [47,978 butterflies](https://www.research-collection.ethz.ch/handle/20.500.11850/365379)
+- [2 million animal traps from 1000 locations](https://lila.science/datasets/swg-camera-traps)
+- [natrual image competitions](https://github.com/visipedia/inat_comp)
+- [1 million serengeti traps](https://lila.science/datasets/snapshot-serengeti)
+- [200,000 histological images](https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/8LKEZF)
+#### Other
+- [21.100 X-ray images](https://domingomery.ing.puc.cl/material/gdxray/)
+
+### Audio
+- []()
+- []()
+- []()
+
+### Text
+- []()
+- []()
+- []()
+
+
+## applications
 Some DL applications I came across that are super cool 
 
 - cohere.ai: add NLP to your buisness
