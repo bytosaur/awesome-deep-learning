@@ -2,18 +2,14 @@
 A collection of cool deep learning material.
 
 ## open source implementations
-#### Audio
 - [Silero VAD](https://github.com/snakers4/silero-vad): Voice Activity Detection and Language Identification (closed source implementation)
-- []
-
-#### Image
-
-#### Video
-
-#### other
 - [CLIP](https://github.com/openai/CLIP)
 
 ## milestones
+#### Visual Language Models [text->image, image->text]
+- dall-e
+  - minDalle
+  - dalle-e mini
 #### Large Language Models [text->text]
 - GPT3: 175B params General Purpose Transformers by OpenAI 
 - Gopher: 280B params and more data by DeepMind
@@ -30,13 +26,26 @@ A collection of cool deep learning material.
 - sagemaker: a no-code ML gui for analyses data by amazon
 - perceptilabs: intuitively train and visualize models
 - metahuman: make an avatar speak your words
+- synthesia: make an avatar
 - cohere.ai: add NLP to your buisness
+- arnheim: generate art using strokes and stuff
 
 ## libraries
 - huggingface: massive transformers library/zoo
 - cppflow: C++ wrapper for tensorflow
 - nlp-aug: augementation for nlp
+- [nl-augmenter](https://github.com/GEM-benchmark/NL-Augmenter): nlp augmentation
 - kapre: preprocessing as a tf layer
+
+## reads
+- cohere
+- pandas tutor: visualization tool for pandas
+
+## other tools
+- gradio: simple guis for ML models
+
+## fun
+- [bring childs drawing to live](https://sketch.metademolab.com/)
 
 ## datasets
 For full lists of datasets please checkout the following links
