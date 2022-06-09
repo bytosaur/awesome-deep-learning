@@ -1,7 +1,7 @@
 # awesome deep learning
 A collection of cool deep learning material.
 
-## implementations
+## open source implementations
 #### Audio
 - [Silero VAD](https://github.com/snakers4/silero-vad): Voice Activity Detection and Language Identification (closed source implementation)
 - []
@@ -9,6 +9,17 @@ A collection of cool deep learning material.
 #### Image
 
 #### Video
+
+#### other
+- [CLIP](https://github.com/openai/CLIP)
+
+## milestones
+- GPT3: General Purpose Transformers by OpenAI (Large Language Model) [text->text]
+
+## applications
+- gaugan2: image darwing and editing tool by NVIDIA [image,sketch,segmentation,text -> image]
+- everydayrobots: trainable robots doing everyday jobs [reinforcement learning]
+- copilot: a code completion addon vor VS code by GitHub and OpenAI using Codex [text2text] 
 
 ## libraries
 - cppflow: C++ wrapper for tensorflow
