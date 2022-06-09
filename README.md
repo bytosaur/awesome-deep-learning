@@ -15,20 +15,25 @@ A collection of cool deep learning material.
 
 ## milestones
 #### Large Language Models [text->text]
-- GPT3: General Purpose Transformers by OpenAI 
+- GPT3: 175B params General Purpose Transformers by OpenAI 
 - Gopher: 280B params and more data by DeepMind
 - Retro: a lightweight model that is able to retrieve information from a database by Deepmind
-- 
+- GLaM: 3T params sparse model by Google AI
 
 ## applications
+- descript: make a voice clone (speech synthesizer)
 - gaugan2: image darwing and editing tool by NVIDIA [image,sketch,segmentation,text -> image]
 - everydayrobots: trainable robots doing everyday jobs [reinforcement learning]
 - copilot: a code completion addon vor VS code by GitHub and OpenAI using Codex [text2text]
   - codeGenX
   - codeParrot 
 - sagemaker: a no-code ML gui for analyses data by amazon
+- perceptilabs: intuitively train and visualize models
+- metahuman: make an avatar speak your words
+- cohere.ai: add NLP to your buisness
 
 ## libraries
+- huggingface: massive transformers library/zoo
 - cppflow: C++ wrapper for tensorflow
 - nlp-aug: augementation for nlp
 - kapre: preprocessing as a tf layer
@@ -63,12 +68,3 @@ natural ecosystems:
 - []()
 
 
-## applications
-Some DL applications I came across that are super cool 
-
-- cohere.ai: add NLP to your buisness
-- metahuman: make an avatar speak your words
-- gaugan2, poegan, nvidia canvas: create and edit images with multimodal descriptions
-- descript: make a voice clone (speech synthesizer)
-
-- perceptilabs: intuitively train and visualize models
