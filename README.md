@@ -4,6 +4,8 @@ A collection of cool deep learning material.
 ## open source implementations
 - [Silero VAD](https://github.com/snakers4/silero-vad): Voice Activity Detection and Language Identification (closed source implementation)
 - [CLIP](https://github.com/openai/CLIP)
+- [JoJoGan](https://github.com/mchong6/JoJoGAN): One Shot Face Stylization
+- [TTS](https://github.com/coqui-ai/TTS): a text to speech synth
 
 ## milestones
 #### Visual Language Models [text->image, image->text]
@@ -29,6 +31,7 @@ A collection of cool deep learning material.
 - synthesia: make an avatar
 - cohere.ai: add NLP to your buisness
 - arnheim: generate art using strokes and stuff
+- AlphaCode: a neural network that solves programming tasks. Similar to codex.
 
 ## libraries
 - huggingface: massive transformers library/zoo
@@ -36,10 +39,13 @@ A collection of cool deep learning material.
 - nlp-aug: augementation for nlp
 - [nl-augmenter](https://github.com/GEM-benchmark/NL-Augmenter): nlp augmentation
 - kapre: preprocessing as a tf layer
+- ecco: make nlp understandable
+- transformer-deploy: automatically speed up transformers
 
 ## reads
 - cohere
 - pandas tutor: visualization tool for pandas
+- [ML job prep](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf)
 
 ## other tools
 - gradio: simple guis for ML models
