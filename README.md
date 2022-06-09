@@ -14,12 +14,19 @@ A collection of cool deep learning material.
 - [CLIP](https://github.com/openai/CLIP)
 
 ## milestones
-- GPT3: General Purpose Transformers by OpenAI (Large Language Model) [text->text]
+#### Large Language Models [text->text]
+- GPT3: General Purpose Transformers by OpenAI 
+- Gopher: 280B params and more data by DeepMind
+- Retro: a lightweight model that is able to retrieve information from a database by Deepmind
+- 
 
 ## applications
 - gaugan2: image darwing and editing tool by NVIDIA [image,sketch,segmentation,text -> image]
 - everydayrobots: trainable robots doing everyday jobs [reinforcement learning]
-- copilot: a code completion addon vor VS code by GitHub and OpenAI using Codex [text2text] 
+- copilot: a code completion addon vor VS code by GitHub and OpenAI using Codex [text2text]
+  - codeGenX
+  - codeParrot 
+- sagemaker: a no-code ML gui for analyses data by amazon
 
 ## libraries
 - cppflow: C++ wrapper for tensorflow
