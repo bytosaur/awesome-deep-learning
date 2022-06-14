@@ -46,6 +46,7 @@ A collection of cool deep learning material.
 - cohere
 - pandas tutor: visualization tool for pandas
 - [ML job prep](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf)
+- [Life-like agents](https://developmentalsystems.org/sensorimotor-lenia/)
 
 ## other tools
 - gradio: simple guis for ML models
