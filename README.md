@@ -44,12 +44,15 @@ A collection of cool deep learning material.
 #### RL kits
 - [gym](https://www.gymlibrary.ml/): RL library initiated by OpenAI
 - diambra: RL environments compliant with Gym
+- evojax & evosax: evolutionary strategies and their hardware acceleration
+- textlesslib: NLP without text
 
 ## reads
-- cohere
+- cohere.ai
 - pandas tutor: visualization tool for pandas
 - [ML job prep](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf)
 - [Life-like agents](https://developmentalsystems.org/sensorimotor-lenia/)
+- [Natural Language Processing with Transformers](https://www.amazon.de/dp/1098103246?linkCode=gs2&tag=oreilly200c-21)
 
 ## other tools
 - gradio: simple guis for ML models
@@ -62,6 +65,7 @@ A collection of cool deep learning material.
 
 ## art projects
 - [abstract paintings]: draw images using abstract shapes [notebook 1]((https://colab.research.google.com/github/google/evojax/blob/main/examples/notebooks/AbstractPainting01.ipynb)) and [notebook 2](https://colab.research.google.com/github/google/evojax/blob/main/examples/notebooks/AbstractPainting02.ipynb)
+- [CLIPasso](https://clipasso.github.io/clipasso/): images into Picasso sketches
 
 ## datasets
 For full lists of datasets please checkout the following links
@@ -92,4 +96,6 @@ natural ecosystems:
 - []()
 - []()
 
+### Other
+- [Interactive 3D models](https://liuliu66.github.io/articulationobjects/)
 
