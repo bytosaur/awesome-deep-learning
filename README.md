@@ -36,11 +36,14 @@ A collection of cool deep learning material.
 ## libraries
 - huggingface: massive transformers library/zoo
 - cppflow: C++ wrapper for tensorflow
-- nlp-aug: augementation for nlp
+- nlp-aug: augmentation for nlp
 - [nl-augmenter](https://github.com/GEM-benchmark/NL-Augmenter): nlp augmentation
 - kapre: preprocessing as a tf layer
 - ecco: make nlp understandable
 - transformer-deploy: automatically speed up transformers
+#### RL kits
+- [gym](https://www.gymlibrary.ml/): RL library initiated by OpenAI
+- diambra: RL environments compliant with Gym
 
 ## reads
 - cohere
@@ -53,6 +56,12 @@ A collection of cool deep learning material.
 
 ## fun
 - [bring childs drawing to live](https://sketch.metademolab.com/)
+
+## conferences
+- [EvoMUSART](EvoMUSART): conference on AI in music, art and design
+
+## art projects
+- [abstract paintings]: draw images using abstract shapes [notebook 1]((https://colab.research.google.com/github/google/evojax/blob/main/examples/notebooks/AbstractPainting01.ipynb)) and [notebook 2](https://colab.research.google.com/github/google/evojax/blob/main/examples/notebooks/AbstractPainting02.ipynb)
 
 ## datasets
 For full lists of datasets please checkout the following links
